@@ -8,3 +8,7 @@ function math(num,num2){
  }
  const result=math(10,5);
  console.log(result)
+function getMenu() {
+  
+ }
+ console.log("Burger, Pizza, Pasta");
